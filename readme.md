@@ -3,13 +3,12 @@
 ## Demo
 
 ![Binary Search - Found Example](binary-search-found.png)
-
 ![Binary Search - Not Found Example](binary-search-not-found.png)
 
 **Live Hugging Face App:**  
-[Add your HF link here after deployment]
-**Live Hugging Face App:**  
-[Add your HF link here after deployment]
+https://huggingface.co/spaces/amxyxv/binary-search-cisc121
+
+**Live Demo:** [Click here to try the app](https://huggingface.co/spaces/amxyxv/binary-search-cisc121)
 
 ## Problem Breakdown & Computational Thinking
 
