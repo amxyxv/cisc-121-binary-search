@@ -1,8 +1,13 @@
 # Binary Search Algorithm Simulator - CISC-121
 
 ## Demo
-*(Screenshots / GIF will be added here after running locally)*
 
+![Binary Search - Found Example](binary-search-found.png)
+
+![Binary Search - Not Found Example](binary-search-not-found.png)
+
+**Live Hugging Face App:**  
+[Add your HF link here after deployment]
 **Live Hugging Face App:**  
 [Add your HF link here after deployment]
 
